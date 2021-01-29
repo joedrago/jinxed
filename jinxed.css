@@ -1,1 +1,23 @@
-/* CSS */
+body {
+    background-color: black;
+    user-select: none;
+}
+
+a {
+    color: #aaffaa;
+    text-decoration: none;
+}
+
+#links {
+    margin: 25px;
+    font-family: monospace;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+#winlose {
+    margin: 15px;
+    font-family: monospace;
+    font-size: 32px;
+    color: #ffffff;
+}
